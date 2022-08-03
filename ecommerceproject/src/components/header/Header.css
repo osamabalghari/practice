@@ -1,0 +1,19 @@
+.list {
+    background-color: crimson;
+    padding: 5px;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 1rem;
+    align-items: center;
+    margin-right: 600px;
+    gap: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
